@@ -72,14 +72,13 @@ const App: () => Node = () => {
           }}>
           <Section title="Step One">
             Edit <Text style={styles.highlight}>App.js</Text> to change this
-            screen and then come back to see your edits lol this is sparta!!!! noice.
+            screen and then come back to see your edits.
           </Section>
           <Section title="This part was done by me">
             it's nice to see some changes here,wow, i really am editing this live!!!
           </Section>
           <Section title="See Your Changes">
             <ReloadInstructions />
-             lol i don't really know where the reload instruction is haha,still a newbie to this stuff !!
           </Section>
           <Section title="Debug">
             <DebugInstructions />
